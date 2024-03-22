@@ -1,0 +1,12 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [3/22/2024 3:49:02 AM] Emulator config file set to C:\Users\agujjula\source\repos\Anudeep Git\CSES500Error2\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [3/22/2024 3:49:02 AM] DiagnosticsStoreRootPath set to: C:\Users\agujjula\AppData\Local\dftmp\Resources\6e9c4fc7-8e75-46e4-85b5-204c4ca2fe2e
+DiagnosticsPluginLauncher.exe Information: 0 : [3/22/2024 3:49:02 AM] Loading config file: C:\Users\agujjula\source\repos\Anudeep Git\CSES500Error2\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [3/22/2024 3:49:02 AM] Config file to read: C:\Users\agujjula\source\repos\Anudeep Git\CSES500Error2\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [3/22/2024 3:49:02 AM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [3/22/2024 3:49:02 AM] Emulator config file set to C:\Users\agujjula\source\repos\Anudeep Git\CSES500Error2\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [3/22/2024 3:49:02 AM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [3/22/2024 3:49:02 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [3/22/2024 3:49:02 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [3/22/2024 3:49:02 AM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [3/22/2024 3:49:03 AM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [3/22/2024 3:49:03 AM] Killing any DiagnosticsPlugin that might remain.

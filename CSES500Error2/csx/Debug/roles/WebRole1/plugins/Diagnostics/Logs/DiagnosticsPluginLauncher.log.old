@@ -1,0 +1,15 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [3/22/2024 3:48:55 AM] Emulator config file set to C:\Users\agujjula\source\repos\Anudeep Git\CSES500Error2\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [3/22/2024 3:48:55 AM] DiagnosticsStoreRootPath set to: C:\Users\agujjula\AppData\Local\dftmp\Resources\6e9c4fc7-8e75-46e4-85b5-204c4ca2fe2e
+DiagnosticsPluginLauncher.exe Information: 0 : [3/22/2024 3:48:55 AM] Loading config file: C:\Users\agujjula\source\repos\Anudeep Git\CSES500Error2\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [3/22/2024 3:48:55 AM] Config file to read: C:\Users\agujjula\source\repos\Anudeep Git\CSES500Error2\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [3/22/2024 3:48:55 AM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [3/22/2024 3:48:55 AM] Emulator config file set to C:\Users\agujjula\source\repos\Anudeep Git\CSES500Error2\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [3/22/2024 3:48:55 AM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [3/22/2024 3:48:55 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [3/22/2024 3:48:55 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [3/22/2024 3:48:55 AM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [3/22/2024 3:48:57 AM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [3/22/2024 3:48:57 AM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [3/22/2024 3:48:58 AM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [3/22/2024 3:48:59 AM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [3/22/2024 3:48:59 AM] Resetting DiagnosticPlugin
